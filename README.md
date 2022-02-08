@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Aarzoo
 - 👀 I’m interested in web development 
--🌱 I’m currently learning single page application Angular and React
